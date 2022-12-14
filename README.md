@@ -1,1 +1,1 @@
-# Metabase-Queries-Justo-do-Brasil-
+# Metabase-Queries-Justo-do-Brasil
